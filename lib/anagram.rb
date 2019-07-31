@@ -1,1 +1,7 @@
-# Your code goes here!
+class Anagram
+  
+  def initializ(string)
+    
+  end
+  
+end
