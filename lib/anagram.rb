@@ -4,4 +4,8 @@ class Anagram
     @word = string
   end
   
+  def match 
+    
+  end
+  
 end
