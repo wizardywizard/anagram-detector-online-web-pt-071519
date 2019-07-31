@@ -7,6 +7,7 @@ class Anagram
   def match(string)
    words = []
    @word.select do |element|
+     
   end
   
 end
