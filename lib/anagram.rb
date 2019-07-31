@@ -5,7 +5,7 @@ class Anagram
   end
   
   def match(string)
-    
+    %W(string)
   end
   
 end
