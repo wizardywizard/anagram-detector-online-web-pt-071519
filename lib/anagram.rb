@@ -6,7 +6,7 @@ class Anagram
   
   def match(string)
    words = []
-   @word.
+   @word.select do |element|
   end
   
 end
