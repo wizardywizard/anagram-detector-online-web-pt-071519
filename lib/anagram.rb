@@ -1,6 +1,6 @@
 class Anagram
   
-  def initializ(string)
+  def initialize(string)
     @word = string
   end
   
